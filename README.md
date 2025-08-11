@@ -27,7 +27,7 @@ Deployment: Vercel / Render / Railway (optional)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stock-market-dashboard.git
+git clone https://github.com/bachu154/Stock-Market-Dashboard.git
 cd stock-market-dashboard
 npm install
 npm run dev
