@@ -30,8 +30,6 @@ Copy
 
 Edit
 
-https://preview-project-requirements-kzmp6agc6ubqhn1y3mmc.vusercontent.net/
-
 git clone https://github.com/bachu154/Stock-Market-Dashboard.git
 
 cd stock-market-dashboard
@@ -39,3 +37,5 @@ cd stock-market-dashboard
 npm install
 
 npm run dev
+
+https://preview-project-requirements-kzmp6agc6ubqhn1y3mmc.vusercontent.net/
