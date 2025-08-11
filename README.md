@@ -1,30 +1,32 @@
-# Project requirements
+Stock Market Dashboard
+A responsive Stock Market Dashboard Web Application built for the JarNox Internship Assignment.
+It allows users to view historical stock prices for multiple companies with interactive chart visualizations.
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+🚀 Features
+Left Panel: Scrollable list of 10+ companies.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/s47875507-8155s-projects/v0-project-requirements)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/YuOS0jqGTsS)
+Main Panel: Chart updates dynamically when a company is selected.
 
-## Overview
+Data: Uses either mock datasets or live API (e.g., yfinance).
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Charts: Implemented with Chart.js / Plotly.
 
-## Deployment
+Backend (Optional): REST API using FastAPI / Flask / Node.js with SQLite / PostgreSQL.
 
-Your project is live at:
+🛠️ Tech Stack
+Frontend: React.js / HTML / CSS / JavaScript
 
-**[https://vercel.com/s47875507-8155s-projects/v0-project-requirements](https://vercel.com/s47875507-8155s-projects/v0-project-requirements)**
+Backend (Optional): Python (FastAPI / Flask) or Node.js (Express)
 
-## Build your app
+Database: SQLite / PostgreSQL
 
-Continue building your app on:
+Deployment: Vercel / Render / Railway (optional)
 
-**[https://v0.app/chat/projects/YuOS0jqGTsS](https://v0.app/chat/projects/YuOS0jqGTsS)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+⚙️ Setup
+bash
+Copy
+Edit
+git clone https://github.com/your-username/stock-market-dashboard.git
+cd stock-market-dashboard
+npm install
+npm run dev
