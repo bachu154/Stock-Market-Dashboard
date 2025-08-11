@@ -28,6 +28,9 @@ bash
 Copy
 Edit
 git clone https://github.com/bachu154/Stock-Market-Dashboard.git
+
 cd stock-market-dashboard
+
 npm install
+
 npm run dev
