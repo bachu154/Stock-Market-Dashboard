@@ -25,8 +25,13 @@ Deployment: Vercel / Render / Railway (optional)
 
 ⚙️ Setup
 bash
+
 Copy
+
 Edit
+
+https://preview-project-requirements-kzmp6agc6ubqhn1y3mmc.vusercontent.net/
+
 git clone https://github.com/bachu154/Stock-Market-Dashboard.git
 
 cd stock-market-dashboard
