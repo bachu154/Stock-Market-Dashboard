@@ -1,4 +1,5 @@
-Stock Market Dashboard
+📈 Stock Market Dashboard
+
 A responsive Stock Market Dashboard Web Application built for the JarNox Internship Assignment.
 It allows users to view historical stock prices for multiple companies with interactive chart visualizations.
 
